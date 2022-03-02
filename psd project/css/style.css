@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+
+/* navbar */
+
+.unipadding {
+    padding: 1% 10%;
+}
+
+#header {
+    background-color: goldenrod;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    /* padding-top: 10px; */
+    align-items: center;
+    overflow: auto;
+}
+
+.img {
+    width: 150px;
+    height: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input {
+    width: 150px;
+    height: 30px;
+    background-color: rgba(241, 208, 20, 0.918);
+    position: relative;
+}
+
+input placeholder {
+    color: white;
+}
+
+.fa-solid {
+    position: absolute;
+    right: 6.5%;
+    background-color: rgb(107, 142, 238);
+    padding-left: 15px;
+    padding-right: 8px;
+    padding-bottom: 9px;
+    padding-top: 9px;
+    width: 30px
+}
+
+
+/* Section1 */
+
+#section1 {
+    background-color: rgba(238, 174, 37, 0.849);
+    overflow: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.padding1 {
+    padding: 5% 10%;
+}
+
+.dog1 {
+    height: 50vh;
+    width: 30vb;
+    float: right;
+}
+
+#h1tag {
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+#ptag {
+    color: white;
+    font-size: 20px;
+    text-orientation: sideways-left;
+    margin-bottom: 20px;
+}
+
+.btn {
+    border: 1px solid white;
+    padding: 18px;
+    margin-right: 10px;
+    color: white;
+    font-weight: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 25px;
+}
+
+#blu {
+    background-color: rgb(31, 191, 231);
+    margin-right: 30px;
+}
